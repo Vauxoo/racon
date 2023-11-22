@@ -1,0 +1,4 @@
+[submodule "racon"]
+	path = racon
+	url = git@git.vauxoo.com:vauxoo/racon.git
+	branch = 17.0
